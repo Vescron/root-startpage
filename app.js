@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Sibtain";
 
 const CARDS = [
   {
@@ -20,11 +20,6 @@ const CARDS = [
     color: "#FF4500",
   },
   {
-    name: "Figma",
-    icon: "ri-pen-nib-fill",
-    link: "https://www.figma.com/",
-  },
-  {
     name: "Github",
     icon: "ri-github-fill",
     link: "https://github.com/",
@@ -36,15 +31,10 @@ const CARDS = [
     color: "#1DA1F2",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-    color: "#ea4c89",
-  },
-  {
-    name: "Hashnode",
-    icon: "ri-newspaper-line",
-    link: "https://hashnode.com/",
+    name: "Sonarr",
+    icon: "ri-sonarr-fill",
+    link: "http://localhost:8989/",
+    color: "#42adf5",
   },
   {
     name: "CodeSandbox",
@@ -58,9 +48,10 @@ const CARDS = [
     color: "#FF0000",
   },
   {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
+    name: "KimAnime",
+    icon: "ri-kimanime-fill",
+    link: "https://kimanime.com/",
+    color: "#3e9e02";
   },
   {
     name: "Gmail",
