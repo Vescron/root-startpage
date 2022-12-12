@@ -45,7 +45,7 @@ const CARDS = [
     name: "KimAnime",
     icon: "ri-play-circle-fill",
     link: "https://kimanime.com/",
-    color: "#3e9e02";
+    color: "#3e9e02",
   },
   {
     name: "Gmail",
