@@ -25,14 +25,8 @@ const CARDS = [
     link: "https://github.com/",
   },
   {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
-    color: "#1DA1F2",
-  },
-  {
     name: "Sonarr",
-    icon: "ri-sonarr-fill",
+    icon: "ri-movie-2-fill",
     link: "http://localhost:8989/",
     color: "#42adf5",
   },
@@ -49,7 +43,7 @@ const CARDS = [
   },
   {
     name: "KimAnime",
-    icon: "ri-kimanime-fill",
+    icon: "ri-play-circle-fill",
     link: "https://kimanime.com/",
     color: "#3e9e02";
   },
